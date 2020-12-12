@@ -4,3 +4,5 @@ You should pair Tion S3 device with your bluetooth host by two steps:
 before use this module!
 
 If you want to use MagicAir API please follow https://github.com/airens/tion
+
+pr test1
